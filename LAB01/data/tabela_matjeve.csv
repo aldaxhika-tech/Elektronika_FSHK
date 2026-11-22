@@ -1,3 +1,9 @@
-| Konfigurimi | Rezistenca | Rryma (A) | Vin (V) | Vout (V) | Amplifikimi |
-|---|---|---|---|---|---|
-| Burimi | 120 kΩ dhe 1.77 kΩ | 2.263 | 11.69 | N/A | N/A |
+print("=" * 65)
+print("RAPORT LABORATORI")
+print("=" * 65)
+print("Lënda:            Hyrje në Elektronikë")
+print("Tema:             Analiza e Qarqeve, Rezistencave dhe Përdorimi i Breadboard")
+print("Emri:             Alda Xhika")
+print("Data e punimit:   22/11/2026")
+print("Data e dorëzimit: 22/11/2026")
+print("=" * 65)
